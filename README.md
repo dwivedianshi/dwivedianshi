@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dwivedianshi
+- 👋 Hi, I’m <strong>Mansi Dwivedi</strong>
 - 🌱 I’m currently learning NodeJS & ReactJS
 
 <!---
